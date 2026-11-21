@@ -1,0 +1,7 @@
+tass_agency | ТАСС
+rian_ru | РИА Новости
+novaya_europe | Новая газета Европа
+Global_Insight_official | Global Insight
+RVvoenkor | Военкоры Русской Весны
+stranaua | Страна.ua
+mediadeportugal | Новости Португалии
